@@ -1,0 +1,3 @@
+Para ejecutar el código se debe contar con el IDE Pycharm y abrir el proyecto completo, la otra opción es
+ejecutar el módulo GUI.py que se encuentra en la carpeta que tiene el nombre de ProyectoOptimización.
+Cabe aclarar que debe tener las librerías requeridas para la ejecución del código.
